@@ -1,0 +1,32 @@
+/*  
+who {
+    what: how;
+}
+
+ie
+
+h1 {
+    color: blue;
+}
+*/
+
+body {
+    background-color: #FEF9EF;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none none;
+    border-width: 6px;
+    height: 0px;
+    text-align: center;
+    width: 100px;
+}
+
+h1 {
+    color: #A2D2FF;
+}
+
+h3 {
+    color: #FF865E;
+}
